@@ -10,3 +10,5 @@ We used AI to help us do precisely that!
 Please try the App on Binder (click below)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tampapath/centipedes_mullipedes_voila.git/master?urlpath=voila%2Frender%2Fpredictions.ipynb)
+
+https://medium.com/the-innovation/web-ai-app-for-gardeners-centipedes-vs-millipedes-6f61ff9156c6
